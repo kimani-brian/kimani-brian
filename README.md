@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kingkim13028906" target="blank"><img src="https://img.shields.io/twitter/follow/kingkim13028906?logo=twitter&style=for-the-badge" alt="kingkim13028906" /></a> </p>
 
-- 👯 I’m looking to collaborate on **go projects**
+- 👯 I’m looking forward to collaborate on **go projects**
 
 - 👨‍💻 All of my projects are available at [https://briankimani.vercel.app/](https://briankimani.vercel.app/)
 
