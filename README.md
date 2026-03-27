@@ -7,9 +7,7 @@
 
 - 👯 I’m looking forward to collaborate on **go projects**
 
-- 👨‍💻 All of my projects are available at [https://briankimani.vercel.app/](https://brian-kimani.vercel.app/)
-
-- 📝 I regularly write articles on [trends.coms](trends.coms)
+- 📝 I regularly write articles on [trends.coms](https://dashboard.render.com)
 
 - 📫 How to reach me **kimanibrian030@gmail.com**
 
