@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Brian Kimani</h1>
+<h1 align="center">Hi, I'm Brian Kimani</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimani-brian29&label=Profile%20views&color=0e75b6&style=flat" alt="kimani-brian29" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kingkim13028906" target="blank"><img src="https://img.shields.io/twitter/follow/kingkim13028906?logo=twitter&style=for-the-badge" alt="kingkim13028906" /></a> </p>
 
-- 👯 I’m looking forward to collaborate on **go projects**
+- I’m looking forward to collaborate on projects
 
-- 📝 I regularly write articles on [trends.coms](https://dashboard.render.com)
+- I regularly write articles on [trends.coms](https://dashboard.render.com)
 
-- 📫 How to reach me **kimanibrian030@gmail.com**
+- How to reach me **kimanibrian030@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
