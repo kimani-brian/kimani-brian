@@ -21,7 +21,7 @@ I am a Software Developer specializing in building scalable backend systems, RES
 - Portfolio: [Portfolio](https://brian-kimani.vercel.app/)
 - Focus Areas: Backend Development, Database Engineering, API Architecture, and Web Applications
 - Collaboration: Open to technical collaboration and open-source contributions
-- Contact: [kimanibrian030@gmail.com](mailto:kimanibrian030@gmail.com)
+
 
 ---
 
