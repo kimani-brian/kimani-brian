@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimani-brian29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kimani-brian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -54,6 +54,6 @@ I am a Software Developer specializing in building scalable backend systems, RES
 ### Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kimani-brian29&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Brian's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kimani-brian29&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kimani-brian&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Brian's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kimani-brian&layout=compact&theme=nord&hide_border=true&hide_title=true&hide_progress=true" alt="Top Languages" width="48%" />
 </p>
