@@ -54,6 +54,6 @@ I am a Software Developer specializing in building scalable backend systems, RES
 ### Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimani-brian29&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Brian's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimani-brian29&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kimani-brian29&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Brian's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kimani-brian29&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
 </p>
